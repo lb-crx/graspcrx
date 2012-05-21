@@ -12,6 +12,6 @@ URI:<input name="URI" id="URI" size="64">
 
 <h3>== 书签 ==</h3>
 
-<a href="javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://code.ijinshan.com/res/j/dlcrx.js';})();" class="shortcode button  " target="">抓CRX</a>
+<a href="javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://code.ijinshan.com/res/j/dlcrx.js';})();" class="shortcode button  " target="">[抓CRX]</a>
 
 %include footer
